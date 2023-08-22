@@ -12,3 +12,7 @@
 * [Economy](commands/economy.md)
 * [Music](commands/music.md)
 * [Misc](commands/misc.md)
+
+***
+
+* [Bot Dashboard](https://milton-dashboard.wrigglysplash.repl.co)
