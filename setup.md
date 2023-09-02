@@ -4,7 +4,7 @@ description: Milton's initial setup and configuration.
 
 # Setup
 
-When Milton first joins your server, he will send the server owner a message prompting a setup for your server.&#x20;
+When Milton first joins your server, he will send the server owner a message prompting a setup for your server. It is asked to set up Milton before using him any further to prevent issues.
 
 {% hint style="info" %}
 Didn't get a message? Use the /setup command.
@@ -17,6 +17,8 @@ The initial setup requires that you have the Administrator permission in the ser
 <summary>Rules Channel</summary>
 
 **channel**: Channel to send rules in. -> <mark style="color:green;">Optional</mark>
+
+* Automatically set to default rules channel set in server
 
 </details>
 
@@ -54,10 +56,4 @@ The initial setup requires that you have the Administrator permission in the ser
 
 </details>
 
-<details>
-
-<summary>More Coming SOON!!!</summary>
-
-
-
-</details>
+It is also necessary for the server owner and staff team to understand that Milton is still under heavy development, so if he has any problems at all, please report them in the development server!!!
