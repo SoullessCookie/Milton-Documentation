@@ -1,6 +1,12 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Setup](setup.md)
+* [Features](features/README.md)
+  * [Economy](features/economy.md)
+  * [Mod Logs](features/mod-logs.md)
+  * [Leveling](features/leveling.md)
+  * [Moderation](features/moderation.md)
 
 ## Commands
 
