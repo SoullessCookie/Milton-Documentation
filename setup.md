@@ -56,4 +56,16 @@ The initial setup requires that you have the Administrator permission in the ser
 
 </details>
 
+<details>
+
+<summary>Milton Alert/Updates Channel</summary>
+
+**channel**: Channel to send Milton ALERT and UPDATE messages in. -> <mark style="color:red;">Required</mark>
+
+* Private Channel preferred
+* Only used for major updates/alerts from Milton development team
+* Doesn't @ any users, roles, and channels
+
+</details>
+
 It is also necessary for the server owner and staff team to understand that Milton is still under heavy development, so if he has any problems at all, please report them in the development server!!!
