@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Milton Documentation](README.md)
 * [Setup](setup.md)
 * [Features](features/README.md)
   * [Economy](features/economy.md)
