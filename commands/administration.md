@@ -112,3 +112,40 @@ Default Permission = N/A
 ```
 
 </details>
+
+<details>
+
+<summary>Welcome</summary>
+
+Set up/Change welcome message settings
+
+* **message**: The new welcome message -> <mark style="color:red;">Required</mark>
+
+<!---->
+
+* **channel**: Channel to send welcome messages in -> <mark style="color:red;">Required</mark>
+
+
+
+The welcome message has a max length of **250 characters**.&#x20;
+
+* To mention the user that just joined use **{user}**.&#x20;
+* To mention the rules channel (if set) use **{rules}**.
+* To name the server use **{server}**.
+
+See: [#welcome-examples](administration.md#welcome-examples "mention")
+
+```
+Server Only = True
+Default Permission = ManageGuild
+```
+
+</details>
+
+{% tabs %}
+{% tab title="Welcome Examples" %}
+<figure><img src="../.gitbook/assets/welcome_example.png" alt=""><figcaption><p>Before</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>After</p></figcaption></figure>
+{% endtab %}
+{% endtabs %}
